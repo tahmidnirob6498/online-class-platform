@@ -3,6 +3,7 @@ import { courseData } from '../lib/data';
 import Image from 'next/image';
 import { FaStar } from 'react-icons/fa';
 import { IoTimeSharp } from 'react-icons/io5';
+import Link from 'next/link';
 
 const CourseDataCard =async () => {
     const courses=await courseData()
@@ -29,7 +30,7 @@ const CourseDataCard =async () => {
                                 </div>
                             </div>
 
-                          <button className='border hover:transform hover:scale-105 hover:duration-500 border-[rgb(190,247,34)] px-2 py-1 w-5/6 mx-auto rounded-2xl mt-auto'>View Course</button>
+                          <Link href={`/course/${course.id}`} className='border hover:transform hover:scale-105 hover:duration-500 border-[rgb(190,247,34)] px-2 py-1 w-5/6 mx-auto rounded-2xl mt-auto text-center'>View Course</Link>
                         
                              </div>
                 )
