@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": 1,
+    "name": "Ayesha Rahman",
+    "role": "Senior Web Development Instructor",
+    "expertise": ["React", "JavaScript", "Frontend Development"],
+    "experienceYears": 8,
+    "rating": 4.9,
+    "studentsTaught": 3200,
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Tanvir Hasan",
+    "role": "UI/UX Design Instructor",
+    "expertise": ["Figma", "User Research", "Interface Design"],
+    "experienceYears": 6,
+    "rating": 4.8,
+    "studentsTaught": 2100,
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Nusrat Jahan",
+    "role": "Data Science Instructor",
+    "expertise": ["Python", "Machine Learning", "Data Analysis"],
+    "experienceYears": 7,
+    "rating": 4.9,
+    "studentsTaught": 2800,
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Fahim Chowdhury",
+    "role": "Digital Marketing Instructor",
+    "expertise": ["SEO", "Social Media Marketing", "Google Ads"],
+    "experienceYears": 5,
+    "rating": 4.7,
+    "studentsTaught": 1800,
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Maliha Islam",
+    "role": "Mobile App Development Instructor",
+    "expertise": ["Flutter", "Dart", "Firebase"],
+    "experienceYears": 6,
+    "rating": 4.8,
+    "studentsTaught": 2400,
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80"
+  }
+]
