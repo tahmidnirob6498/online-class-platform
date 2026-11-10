@@ -1,91 +1,92 @@
 {
-    "courses":[
-  {
-    "id": 1,
-    "title": "Complete Web Development Bootcamp",
-    "instructor": "John Doe",
-    "duration": "120 hours",
-    "rating": 4.8,
-    "level": "Beginner",
-    "description": "Learn full-stack web development from scratch.",
-    "image": "https://i.postimg.cc/example-course1.png",
-    "category": "Development"
-  },
-  {
-    "id": 2,
-    "title": "Python Programming for Beginners",
-    "instructor": "Sarah Khan",
-    "duration": "40 hours",
-    "rating": 4.7,
-    "level": "Beginner",
-    "description": "Learn Python fundamentals and build practical projects.",
-    "image": "https://i.postimg.cc/example-course2.png",
-    "category": "Programming"
-  },
-  {
-    "id": 3,
-    "title": "UI/UX Design Fundamentals",
-    "instructor": "Michael Lee",
-    "duration": "32 hours",
-    "rating": 4.6,
-    "level": "Beginner",
-    "description": "Explore user research, wireframing, and interface design.",
-    "image": "https://i.postimg.cc/example-course3.png",
-    "category": "Design"
-  },
-  {
-    "id": 4,
-    "title": "JavaScript and React Masterclass",
-    "instructor": "Nadia Rahman",
-    "duration": "65 hours",
-    "rating": 4.9,
-    "level": "Intermediate",
-    "description": "Build interactive web applications with JavaScript and React.",
-    "image": "https://i.postimg.cc/example-course4.png",
-    "category": "Development"
-  },
-  {
-    "id": 5,
-    "title": "Digital Marketing Essentials",
-    "instructor": "David Miller",
-    "duration": "28 hours",
-    "rating": 4.5,
-    "level": "Beginner",
-    "description": "Learn SEO, social media, and online advertising basics.",
-    "image": "https://i.postimg.cc/example-course5.png",
-    "category": "Marketing"
-  },
-  {
-    "id": 6,
-    "title": "Data Analysis with Excel",
-    "instructor": "Ayesha Karim",
-    "duration": "24 hours",
-    "rating": 4.7,
-    "level": "Beginner",
-    "description": "Organize data and create useful reports with Excel.",
-    "image": "https://i.postimg.cc/example-course6.png",
-    "category": "Data Science"
-  },
-  {
-    "id": 7,
-    "title": "Graphic Design with Adobe Illustrator",
-    "instructor": "Chris Evans",
-    "duration": "36 hours",
-    "rating": 4.6,
-    "level": "Intermediate",
-    "description": "Create logos, illustrations, and vector graphics.",
-    "image": "https://i.postimg.cc/example-course7.png",
-    "category": "Design"
-  },
-  {
-    "id": 8,
-    "title": "Introduction to Cybersecurity",
-    "instructor": "Farhan Ahmed",
-    "duration": "30 hours",
-    "rating": 4.8,
-    "level": "Beginner",
-    "description": "Understand online threats and learn essential security practices.",
-    "image": "https://i.postimg.cc/example-course8.png",
-    "category": "Cybersecurity"
-  }
-]}
+  "courses": [
+    {
+      "id": 1,
+      "title": "Complete Web Development Bootcamp",
+      "instructor": "John Doe",
+      "duration": "120 hours",
+      "rating": 4.8,
+      "level": "Beginner",
+      "description": "Learn full-stack web development from scratch.",
+      "image": "https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=800&h=450&q=80",
+      "category": "Development"
+    },
+    {
+  "id": 2,
+  "title": "Python Programming for Beginners",
+  "instructor": "Sarah Khan",
+  "duration": "40 hours",
+  "rating": 4.7,
+  "level": "Beginner",
+  "description": "Learn Python fundamentals and build practical projects.",
+  "image": "https://unsplash.com/photos/14jNrPntbgk/download?force=true&w=800&h=450&fit=crop",
+  "category": "Programming"
+},
+    {
+      "id": 3,
+      "title": "UI/UX Design Fundamentals",
+      "instructor": "Michael Lee",
+      "duration": "32 hours",
+      "rating": 4.6,
+      "level": "Beginner",
+      "description": "Explore user research, wireframing, and interface design.",
+      "image": "https://images.unsplash.com/photo-1559223607-a43c990c692c?auto=format&fit=crop&w=800&h=450&q=80",
+      "category": "Design"
+    },
+    {
+      "id": 4,
+      "title": "JavaScript and React Masterclass",
+      "instructor": "Nadia Rahman",
+      "duration": "65 hours",
+      "rating": 4.9,
+      "level": "Intermediate",
+      "description": "Build interactive web applications with JavaScript and React.",
+      "image": "https://images.unsplash.com/photo-1475483768296-6163e08872a1?auto=format&fit=crop&w=800&h=450&q=80",
+      "category": "Development"
+    },
+    {
+      "id": 5,
+      "title": "Digital Marketing Essentials",
+      "instructor": "David Miller",
+      "duration": "28 hours",
+      "rating": 4.5,
+      "level": "Beginner",
+      "description": "Learn SEO, social media, and online advertising basics.",
+      "image": "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?auto=format&fit=crop&w=800&h=450&q=80",
+      "category": "Marketing"
+    },
+    {
+      "id": 6,
+      "title": "Data Analysis with Excel",
+      "instructor": "Ayesha Karim",
+      "duration": "24 hours",
+      "rating": 4.7,
+      "level": "Beginner",
+      "description": "Organize data and create useful reports with Excel.",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=800&h=450&q=80",
+      "category": "Data Science"
+    },
+    {
+      "id": 7,
+      "title": "Graphic Design with Adobe Illustrator",
+      "instructor": "Chris Evans",
+      "duration": "36 hours",
+      "rating": 4.6,
+      "level": "Intermediate",
+      "description": "Create logos, illustrations, and vector graphics.",
+      "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=800&h=450&q=80",
+      "category": "Design"
+    },
+    {
+      "id": 8,
+      "title": "Introduction to Cybersecurity",
+      "instructor": "Farhan Ahmed",
+      "duration": "30 hours",
+      "rating": 4.8,
+      "level": "Beginner",
+      "description": "Understand online threats and learn essential security practices.",
+      "image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&w=800&h=450&q=80",
+      "category": "Cybersecurity"
+    }
+  ]
+}
