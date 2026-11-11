@@ -5,4 +5,7 @@
   default: true;
   --color-primary: rgb(190,247,34);
 }
+html{
+  scroll-behavior: smooth;
+}
 
